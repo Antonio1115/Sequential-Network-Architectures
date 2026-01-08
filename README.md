@@ -1,11 +1,11 @@
-# Lab Assignment Seven: Sequential Network Architectures
+# Sequential Network Architectures for Sentiment Analysis
 
-This project contains code and resources for Lab Assignment Seven, focusing on sequential network architectures in machine learning. The main deliverables are a Jupyter Notebook and an HTML export of the notebook.
+This project explores and compares multiple sequential neural network architectures (CNN, LSTM, and Transformer) for text sentiment classification on the IMDB movie review dataset. Originally developed as part of a university machine learning course, the project emphasizes rigorous evaluation, architectural comparison, and statistical analysis.
 
 ## Contents
 
-- `Lab_7.ipynb`: The main Jupyter Notebook containing code, explanations, and results for the lab assignment.
-- `Lab_7.html`: An HTML export of the notebook for easy viewing without Jupyter.
+- `Lab_7.ipynb`: End-to-end implementation, training, evaluation, and analysis of sequential neural network models.
+- `Lab_7.html`: HTML export of the notebook for easy viewing without Jupyter.
 
 ## Objective
 
@@ -66,8 +66,8 @@ pip install -r requirements.txt
 
 ## Author
 
-- [Your Name Here]
+- Antonio F.
 
 ## License
 
-This project is for educational purposes.
+This project was developed for educational purposes as part of academic coursework.
